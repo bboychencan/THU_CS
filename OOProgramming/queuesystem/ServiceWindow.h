@@ -1,0 +1,4 @@
+enum WindowStatus{
+	SERVICE,
+	IDLE
+};
